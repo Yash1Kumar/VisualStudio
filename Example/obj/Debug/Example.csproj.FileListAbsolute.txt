@@ -1,0 +1,7 @@
+E:\855\DevOps\Example\Example\bin\Debug\Example.exe.config
+E:\855\DevOps\Example\Example\bin\Debug\Example.exe
+E:\855\DevOps\Example\Example\bin\Debug\Example.pdb
+E:\855\DevOps\Example\Example\obj\Debug\Example.csprojAssemblyReference.cache
+E:\855\DevOps\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+E:\855\DevOps\Example\Example\obj\Debug\Example.exe
+E:\855\DevOps\Example\Example\obj\Debug\Example.pdb
